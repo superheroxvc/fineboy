@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Oct 2023 17:41:11 at https://seeking-arrangement-profile-8ab7d9f.netlify.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://seeking-arrangement-profile-8ab7d9f.netlify.app/ -O1 "C:\My Web Sites\seeking n" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:42:13	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/0
+17:42:30	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/event.jpeg
+17:43:03	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://seeking-arrangement-profile-8ab7d9f.netlify.app/)
+17:43:03	Error: 	"Not Found" (404) at link https://seeking-arrangement-profile-8ab7d9f.netlify.app/document.location (from https://seeking-arrangement-profile-8ab7d9f.netlify.app/)
+17:43:03	Error: 	"Not Found" (404) at link https://seeking-arrangement-profile-8ab7d9f.netlify.app/sw.js (from https://seeking-arrangement-profile-8ab7d9f.netlify.app/)
+17:43:03	Error: 	"Not Found" (404) at link https://seeking-arrangement-profile-8ab7d9f.netlify.app/edge.fullstory.com/s/fs.js (from https://seeking-arrangement-profile-8ab7d9f.netlify.app/)
+17:43:07	Error: 	"Not Found" (404) at link https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/themes/default/assets/images/flags.png (from https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/semantic.min.css)
+17:43:07	Error: 	"Not Found" (404) at link https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/themes/default/assets/fonts/icons.eot (from https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/semantic.min.css)
+17:43:07	Error: 	"Not Found" (404) at link https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/themes/default/assets/fonts/icons.eot? (from https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/semantic.min.css)
+17:43:07	Error: 	"Not Found" (404) at link https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/themes/default/assets/fonts/icons.woff2 (from https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/semantic.min.css)
+17:43:07	Error: 	"Not Found" (404) at link https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/themes/default/assets/fonts/icons.woff (from https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/semantic.min.css)
+17:43:07	Error: 	"Not Found" (404) at link https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/themes/default/assets/fonts/icons.ttf (from https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/semantic.min.css)
+17:43:07	Error: 	"Not Found" (404) at link https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/themes/default/assets/fonts/icons.svg (from https://seeking-arrangement-profile-8ab7d9f.netlify.app/Member Login - Seeking_files/semantic.min.css)
+17:43:07	Error: 	"Not Found" (404) at link https://seeking-arrangement-profile-8ab7d9f.netlify.app/member%20login%20-%20seeking_files/Edg/ (from https://seeking-arrangement-profile-8ab7d9f.netlify.app/member%20login%20-%20seeking_files/button)
+17:43:07	Error: 	"Not Found" (404) at link https://seeking-arrangement-profile-8ab7d9f.netlify.app/member%20login%20-%20seeking_files/ (from https://seeking-arrangement-profile-8ab7d9f.netlify.app/member%20login%20-%20seeking_files/button)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 56 seconds : 94 links scanned, 80 files written (5186915 bytes overall) [2097300 bytes received at 18080 bytes/sec], 4478140 bytes transferred using HTTP compression in 54 files, ratio 27%, 1.1 requests per connection
+(13 errors, 2 warnings, 0 messages)

@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.seeking.com	TRUE	/	FALSE	1999999999	__cf_bm	kmkb84.KhmLW4wW8c0QNV7XoWXgaPV0dP9ctFElLGQQ-1698529298-0-ARRpM3S/PRp7j7AHfWuNwcHKJzttkTdxuUYQexBLwskSrEcPCTmlH8h0WZMWQs3hAX869T9K+z7JKa/peSsn6cpZktKiBjQBGIqfvedcPe5r
+.seeking.com	TRUE	/	FALSE	1999999999	__cfruid	d24f3890a54655640001161f84b40557ef6b0e75-1698529298
+contents.seeking.com	TRUE	/	FALSE	1999999999	SameSite	None
+tiktok.com	TRUE	/	FALSE	1999999999	_ttp	2XPSgOovpjPaULEeiDMBnvwMjHP
+analytics.tiktok.com	TRUE	/	FALSE	1999999999	SameSite	None
+
